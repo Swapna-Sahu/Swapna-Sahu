@@ -2,7 +2,7 @@
 ### Hey 👋🏽, I'm [Swapna Sahu!](https://github.com/Swapna-Sahu) 
 
 <a href="https://www.linkedin.com/in/swapna-sahu-45b97a26/">
-  <img align="left" alt="Swapna-Sahu LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Swapna-Sahu LinkdeIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
 <br />
