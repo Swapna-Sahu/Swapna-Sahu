@@ -8,6 +8,8 @@
 <br />
 
 Hi, I'm Swapna Sahu, a Frontend Developer 🚀 from Copenhagen(Denmark), I am enthusiastic and highly motivated front-end developer with experience in Vue and React frameworks, I enjoy sharing knowledge and meditation.
+<br />
+📝 [Resume](https://github.com/Swapna-Sahu/Finance-Logger/files/6155832/Swapna-Sahu_CV.pdf)
   
 **Talking about Personal Stuffs:**
 
