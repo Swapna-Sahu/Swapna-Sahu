@@ -13,10 +13,10 @@ Hi, I'm Swapna Sahu, a Frontend Developer 🚀 from Copenhagen(Denmark), I am en
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working as a mentor assistant in [Hackyourfuture-Copenhagen](https://github.com/HackYourFuture-CPH) coding institute ;
-- 🌱 I’m currently learning NextJS ,Typescript and NuxtJS; 
+- 👨🏽‍💻 I’m currently working as a Web Developer in [Moodagent](https://moodagent.com/da-dk) company ;
+- 🌱 I’m currently learning NextJS ,CMS prismic; 
 - 👯 I’m looking to collaborate on mobile app with React native 🤝;
-- 🤔 I’m looking for help with Python 😭;
+- 🤔 I’m looking for help with Machine Learning 😭;
 - 💬 Ask me about anything, I will try my best;
 - ⚡️ Fun fact:You never feel you are expert. Everyday is learning. 
 - 📫 How to reach me: swapna.sahu85@gmail.com;
