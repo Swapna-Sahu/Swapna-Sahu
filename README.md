@@ -13,7 +13,7 @@ Hi, I'm Swapna Sahu, a Frontend Developer 🚀 from Copenhagen(Denmark), I am en
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working as a Web Developer in [Moodagent](https://moodagent.com/da-dk) company ;
+- 👨🏽‍💻 I was working  as a Web Developer in [Moodagent](https://moodagent.com/da-dk) company ;
 - 🌱 I’m currently learning NextJS ,CMS prismic; 
 - 👯 I’m looking to collaborate on mobile app with React native 🤝;
 - 🤔 I’m looking for help with Machine Learning 😭;
